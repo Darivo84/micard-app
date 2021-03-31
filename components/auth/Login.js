@@ -36,6 +36,8 @@ export class Login extends Component {
             .catch((error) => {
                 console.log(error)
             })
+            console.log(firebase.auth) // Undefined
+            console.log(firebase.default.auth) // Function
     }
 
     render() {

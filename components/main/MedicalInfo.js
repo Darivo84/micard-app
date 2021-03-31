@@ -116,7 +116,7 @@ const styles = StyleSheet.create({
     questions: {
         color: '#fff',
         fontSize: 16,
-        fontWeight: 600,
+        fontWeight: "600",
         textAlign: 'left',
         marginBottom: 12,
         paddingTop: 20,
