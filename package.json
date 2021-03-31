@@ -2,7 +2,7 @@
   "homepage": "http://Darivo84.github.io/micard-app",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
-    "predeploy": "expo build: web",
+    "expo build": "web",
     "deploy": "gh-pages -d build",
     "start": "expo start",
     "android": "expo start --android",
