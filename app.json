@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "app-micard",
-    "slug": "app-micard",
+    "name": "micard-30/04",
+    "slug": "micard-3004",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Testing "
   }
 }
